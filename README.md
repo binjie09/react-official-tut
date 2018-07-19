@@ -13,5 +13,6 @@ npm run server
 
 ## 你的任务
 
-这个项目默认实现了一个简单的，可用的，组件化的三子棋游戏
+这个项目来自react官网
+我使用react、webpack、css-loader、webpack-dev-server、babel搭建配置了一个简单的，可用的，组件化的三子棋游戏
 你需要使用一点技巧，把src/js/component/board组件里的state交由game组件处理，实现‘悔棋’、‘重新开始游戏’功能
